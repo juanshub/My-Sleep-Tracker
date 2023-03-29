@@ -12,7 +12,6 @@
 		5C8C285C29D3586A00413973 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8C285B29D3586A00413973 /* ViewController2.swift */; };
 		5C8C286129D359BA00413973 /* BarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8C286029D359BA00413973 /* BarChart.swift */; };
 		5C8C286329D36BD800413973 /* DisplayTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8C286229D36BD800413973 /* DisplayTime.swift */; };
-		5C8C286529D36C0A00413973 /* Chart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8C286429D36C0A00413973 /* Chart.swift */; };
 		5CA1182A29C8D0DD001D2AC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA1182929C8D0DD001D2AC9 /* AppDelegate.swift */; };
 		5CA1182C29C8D0DD001D2AC9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA1182B29C8D0DD001D2AC9 /* SceneDelegate.swift */; };
 		5CA1183129C8D0DD001D2AC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CA1182F29C8D0DD001D2AC9 /* Main.storyboard */; };
@@ -27,7 +26,6 @@
 		5C8C285B29D3586A00413973 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		5C8C286029D359BA00413973 /* BarChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarChart.swift; sourceTree = "<group>"; };
 		5C8C286229D36BD800413973 /* DisplayTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayTime.swift; sourceTree = "<group>"; };
-		5C8C286429D36C0A00413973 /* Chart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chart.swift; sourceTree = "<group>"; };
 		5CA1182629C8D0DD001D2AC9 /* Sleep-Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sleep-Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CA1182929C8D0DD001D2AC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CA1182B29C8D0DD001D2AC9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,7 +64,6 @@
 				5CA1184129C8D256001D2AC9 /* SQLiteConnect.swift */,
 				5C1430AE29D2997A001382E6 /* RecordTime.swift */,
 				5C8C286229D36BD800413973 /* DisplayTime.swift */,
-				5C8C286429D36C0A00413973 /* Chart.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -201,7 +198,6 @@
 				5CA1184229C8D256001D2AC9 /* SQLiteConnect.swift in Sources */,
 				5C1430AF29D2997A001382E6 /* RecordTime.swift in Sources */,
 				5C14308029CF40B6001382E6 /* ViewController.swift in Sources */,
-				5C8C286529D36C0A00413973 /* Chart.swift in Sources */,
 				5CA1182C29C8D0DD001D2AC9 /* SceneDelegate.swift in Sources */,
 				5C8C286129D359BA00413973 /* BarChart.swift in Sources */,
 				5C8C285C29D3586A00413973 /* ViewController2.swift in Sources */,
