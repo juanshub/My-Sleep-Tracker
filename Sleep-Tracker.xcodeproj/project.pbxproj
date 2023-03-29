@@ -82,7 +82,7 @@
 		5CA1181D29C8D0DD001D2AC9 = {
 			isa = PBXGroup;
 			children = (
-				5CA1182829C8D0DD001D2AC9 /* ExSQLite */,
+				5CA1182829C8D0DD001D2AC9 /* Sleep-Tracker */,
 				5CA1182729C8D0DD001D2AC9 /* Products */,
 				5CA1183D29C8D129001D2AC9 /* Frameworks */,
 			);
@@ -96,7 +96,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5CA1182829C8D0DD001D2AC9 /* ExSQLite */ = {
+		5CA1182829C8D0DD001D2AC9 /* Sleep-Tracker */ = {
 			isa = PBXGroup;
 			children = (
 				5C8C285D29D358CD00413973 /* View */,
@@ -110,7 +110,7 @@
 				5CA1183429C8D0DE001D2AC9 /* LaunchScreen.storyboard */,
 				5CA1183729C8D0DE001D2AC9 /* Info.plist */,
 			);
-			path = ExSQLite;
+			path = "Sleep-Tracker";
 			sourceTree = "<group>";
 		};
 		5CA1183D29C8D129001D2AC9 /* Frameworks */ = {
